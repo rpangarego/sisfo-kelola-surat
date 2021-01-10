@@ -1,0 +1,1 @@
+<?php include 'includes/functions.php'; redirect_js('login'); ?>
